@@ -1,3 +1,3 @@
 # hello-world
 1st
-I amn student
+I am student
